@@ -1,8 +1,8 @@
-= Cloudera Flow Management (CFM) Workshop with Apache NiFi
+= Cloudera Data Flow Workshop with Apache NiFi, Apache Kafka, Apache Hive, Apache HBase, Apache Kudu and Cloud Object stores.
 
 == Introduction
 
-In this virtual hands-on workshop, you will build a real workflow for an **IoT Predictive Maintenance** use case.    You will get hands-on experience in using CFM for production use cases.
+In this virtual hands-on workshop, you will build a real workflow CDP Public Cloud with Data Hubs.    You will get hands-on experience in using Cloud Data Flows for production use cases.
 
 === Before you start
 
