@@ -22,7 +22,7 @@ In this virtual hands-on workshop, you will build a real workflow CDP Public Clo
 
 === Resources
 
-* link:https://github.com/tspannhw/airline-sentiment-streaming
+* link:https://github.com/tspannhw/airline-sentiment-streaming[Airline Sentiment Streaming Flow]
 
 * link:https://www.cloudera.com/documentation.html[Cloudera Documentation]
 
